@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         String hellasafao = "Hello Git!";
 
         //commit 2 diff branch 2222222
+        // code after pushing
 
     }
 }
