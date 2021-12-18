@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         String hellasafao = "Hello Git!";
 
-        //commit 2 diff branch
+        //commit 2 diff branch 2222222
 
     }
 }
