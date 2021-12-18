@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
         //commit 2 diff branch 2222222
         // code after pushing
+        // another code after pushing
 
     }
 }
